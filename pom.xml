@@ -8,7 +8,7 @@
   <description>A very simple Maven-enabled WAR web project</description>
   <properties>
      <sonar.host.url>http://52.91.116.216:9000/</sonar.host.url>
-     <sonat.login>squ_91e090b1008ac98cb69e1fff60fba6dd1f63d813</sonar.login>
+     <sonar.login>squ_91e090b1008ac98cb69e1fff60fba6dd1f63d813</sonar.login>
      <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
      <maven.compiler.source>11</maven.compiler.source>
      <maven.compiler.target>11</maven.compiler.target>
